@@ -44,7 +44,7 @@ This project analyzes the Netflix dataset to gain insights into the platform’s
 
 ---
 
-##Sample Visualization
+## 📷 Sample Visualizations
 
 
 ### Top 10 Countries Which Produced the Highest Number of Shows
